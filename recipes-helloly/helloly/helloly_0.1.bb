@@ -23,7 +23,7 @@ SRC_URI = "git://github.com/emblincram/helloly.git;branch=main;protocol=ssh"
 #SRC_URI = "https://github.com/emblincram/helloly.git;branch=main;protocol=https"
 #SRC_URI = "git://github.com/emblincram/helloly.git;branch=main;protocol=https;user=emblincram;pass=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"
 #SRCREV = "${AUTOREV}"
-SRCREV = "5f4ad45f27e937c5462d7bf60d8cd89d385a1d21"
+SRCREV = "7d50bede0b0d7c997d41e1bf26711e0f725e52ab"
 
 S = "${WORKDIR}/git"
 
